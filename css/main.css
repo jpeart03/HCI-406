@@ -1,5 +1,5 @@
 /*=============================
-====HCI 406 project styling====
+====volofin project styling====
 =============================*/
 /* global style settings*/
 html {
@@ -399,7 +399,6 @@ html {
 
 .bio-image img:hover {
     filter: grayscale(0%);
-    transform: scale(1.1,1.1);
 }
 
 .bio-image h3 {
